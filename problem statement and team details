@@ -1,0 +1,15 @@
+Problem Id: TSL-1.0
+Problem Title: Feedback Collection And Management
+Description:
+As much important is a service provided by a company so much important is to measure the quality of service. One such way is to gather and manage feedback.
+Design a page which manages a food service feedback. The page contains customer id, a short description of the service followed by a rating and text feedback.
+Rating happens on a scale of 1 to 5. Text feedback is optional. On submit, the feedback gets logged into a database. There is a vendor dashboard where all the feedback can be monitored.
+There is also a service available to the user where user can see all the feedback given by far.
+
+
+Team Details:
+      Name                          USN             Rollno
+Prajna Manjunath Yaji         01FE16BCS145           165
+Prashant Jalisatgi            01FE16BCS148           168
+Pradeep Badiger               01FE16BCS144           164
+Pooja Vibhutimath             01FE16BCS141           162
